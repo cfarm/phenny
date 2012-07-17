@@ -4,6 +4,8 @@ Installation &c.
 2) Edit ~/.phenny/default.py
 3) Run ./phenny - this now runs phenny with your settings
 
+Setup IRC
+
 Enjoy!
 
 -- 
